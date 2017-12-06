@@ -1,3 +1,5 @@
+# This is an updated version for Digitalocean spaces.
+
 ![FastS3](http://i.imgur.com/A42azaA.png)
 ---
 
